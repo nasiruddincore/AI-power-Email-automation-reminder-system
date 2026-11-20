@@ -1,0 +1,26 @@
+# Environments & secrets
+.env
+*.env
+!*.env.example
+
+# Python virtual environment & cache
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+build/
+dist/
+
+# Logs & generated reports (keep .gitkeep)
+logs/*.log
+!logs/.gitkeep
+outputs/*.csv
+!outputs/.gitkeep
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

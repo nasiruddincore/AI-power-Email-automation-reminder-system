@@ -1,0 +1,5 @@
+reminder_id,contact_id,reminder_title,due_at,frequency,notes
+R101,C001,Submit Python Assignment #3,2026-11-20 18:00,once,Upload GitHub link before 6 PM
+R102,C002,Weekly Batch Sync Reminder,2026-11-20 10:00,weekly,Share attendance sheet in advance
+R103,C003,Daily Standup Check-in,2026-11-20 09:30,daily,Update blocker status
+R104,C004,Workshop Registration Confirmation,2026-11-20 11:00,once,Bring laptop with Python 3.10+

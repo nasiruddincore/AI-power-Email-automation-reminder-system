@@ -1,0 +1,13 @@
+Subject: Reminder: {reminder_title} (Due: {due_at})
+Hi {name},
+
+This is an automated reminder regarding:
+- Task/Event: {reminder_title}
+- Scheduled Time: {due_at}
+- Frequency: {frequency}
+- Notes: {notes}
+
+Please complete this on time and reach out if you need help.
+
+Best regards,
+{sender_name}

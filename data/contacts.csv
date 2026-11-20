@@ -1,0 +1,5 @@
+contact_id,name,email,role,city,lat,lon
+C001,Aarav Sharma,aarav.demo@example.com,Intern,Ludhiana,30.9010,75.8573
+C002,Priya Nair,priya.demo@example.com,Trainer,Chandigarh,30.7333,76.7794
+C003,Rohan Verma,rohan.demo@example.com,Coordinator,Delhi,28.6139,77.2090
+C004,Ananya Das,ananya.demo@example.com,Student,Bengaluru,12.9716,77.5946
